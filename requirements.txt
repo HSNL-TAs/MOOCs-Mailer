@@ -1,3 +1,2 @@
-imbox==0.6
-six==1.9.0
+Envelopes==0.4
 wheel==0.24.0
